@@ -1,9 +1,9 @@
 {
-  "name": "cryptonix/roles",
+  "name": "nikunjgupta01/dps-security",
   "description": "Roles And Ip security",
   "autoload": {
     "psr-4": {
-      "Cryptonix\\Roles\\": "src/"
+      "NikunjGupta01\\dpssecurity\\": "src/"
     }
   },
   "require": {

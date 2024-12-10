@@ -1,6 +1,6 @@
 <?php
 
-namespace Cryptonix\Roles\Providers;
+namespace NikunjGupta01\dpssecurity\Providers;
 
 
 use Illuminate\Support\ServiceProvider;

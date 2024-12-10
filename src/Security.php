@@ -1,6 +1,6 @@
 <?php
 
-namespace Cryptonix\Roles;
+namespace NikunjGupta01\dpssecurity;
 
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Http;

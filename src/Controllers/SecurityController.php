@@ -1,6 +1,6 @@
 <?php
 
-namespace Cryptonix\Roles\Controllers;
+namespace NikunjGupta01\dpssecurity\Controllers;
 
 use Cryptonix\roles\Security;
 use Illuminate\Http\Request;
